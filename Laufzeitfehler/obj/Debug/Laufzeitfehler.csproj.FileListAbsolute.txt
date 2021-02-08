@@ -1,0 +1,10 @@
+C:\Users\b\source\repos\Laufzeitfehler\Laufzeitfehler\bin\Debug\Laufzeitfehler.exe.config
+C:\Users\b\source\repos\Laufzeitfehler\Laufzeitfehler\bin\Debug\Laufzeitfehler.exe
+C:\Users\b\source\repos\Laufzeitfehler\Laufzeitfehler\bin\Debug\Laufzeitfehler.pdb
+C:\Users\b\source\repos\Laufzeitfehler\Laufzeitfehler\obj\Debug\Laufzeitfehler.csprojAssemblyReference.cache
+C:\Users\b\source\repos\Laufzeitfehler\Laufzeitfehler\obj\Debug\Laufzeitfehler.Form1.resources
+C:\Users\b\source\repos\Laufzeitfehler\Laufzeitfehler\obj\Debug\Laufzeitfehler.Properties.Resources.resources
+C:\Users\b\source\repos\Laufzeitfehler\Laufzeitfehler\obj\Debug\Laufzeitfehler.csproj.GenerateResource.cache
+C:\Users\b\source\repos\Laufzeitfehler\Laufzeitfehler\obj\Debug\Laufzeitfehler.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\Laufzeitfehler\Laufzeitfehler\obj\Debug\Laufzeitfehler.exe
+C:\Users\b\source\repos\Laufzeitfehler\Laufzeitfehler\obj\Debug\Laufzeitfehler.pdb
